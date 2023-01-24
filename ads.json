@@ -6,7 +6,7 @@
     "applovinBanner":"16cb520e5",
     "applovinInterstitial":"16cb520e5",
     "unityGameId":"5127728",
-    "testMode":false,
+    "testMode":true,
     "unityBanner":"Banner_Android",
     "unityInterstitial":"Interstitial_Android",
     "reviewActive":true
